@@ -1,17 +1,17 @@
 <h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
  I'm Yohanes!</h2>
 
-<a href="https://www.linkedin.com/in/yohanesnaibaho/">
-  <img align="left" alt="Asbiq's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/yohanespratamanaibaho/">
+  <img align="left" alt="Yohanes's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/ypdangg/">
-  <img align="left" alt="Asbiq's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Yohanes's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/asbiq.alalawi">
-  <img align="left" alt="Asbiq's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/yohanesnaibaho(https://www.facebook.com/Mr.YOhaN/)">
+  <img align="left" alt="Yohanes's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/asbiqalalawi9">
-  <img align="left" alt="Asbiq's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://twitter.com/shehatesdang">
+  <img align="left" alt="Yohanes's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
 
@@ -23,12 +23,10 @@
 A **Programmer ** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a computer science student at the President University.
-- 🌱 My interest in Cyber Security.
+- 🌱 My interest in Cyber Security, Web Development, QA, Cloud.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yohanesnaibaho303@gmail.com](mailto:yohanesnaibaho303@gmail.com).
 
