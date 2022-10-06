@@ -47,10 +47,3 @@ A **Programmer ** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Dang's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanesnaibaho303&count_private=true&theme=dark" alt="dang" />
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yohanesnaibaho303&left_color=grey&right_color=purple)
-[![Repos Badge](https://badges.pufler.dev/repos/yohanesnaibaho303)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/yohanesnaibaho303)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/yohanesnaibaho303)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/yohanesnaibaho303/yohanesnaibaho303)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/yohanesnaibaho303/yohanesnaibaho303)](https://badges.pufler.dev)
