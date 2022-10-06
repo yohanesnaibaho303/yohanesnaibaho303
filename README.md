@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/ypdangg/">
   <img align="left" alt="Yohanes's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/yohanesnaibaho(https://www.facebook.com/Mr.YOhaN/)">
+<a href="https://www.facebook.com/Mr.YOhaN/">
   <img align="left" alt="Yohanes's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/shehatesdang">
