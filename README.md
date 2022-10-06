@@ -20,7 +20,7 @@
 <br />
 <br />
 
-A **Programmer ** ***Enthusiast*** 🚀.
+A **Programmer** ***Enthusiast*** 🚀.
  
 
 **About Me!**
