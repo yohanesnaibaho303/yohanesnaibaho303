@@ -1,5 +1,5 @@
 <h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
- I'm Yohanes!</h2>
+ I'm Yohanes Pratama Naibaho!</h2>
 
 <a href="https://www.linkedin.com/in/yohanespratamanaibaho/">
   <img align="left" alt="Yohanes's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -46,5 +46,5 @@ A **Programmer** ***Enthusiast*** 🚀.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Dang's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Yohanes's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanesnaibaho303&count_private=true&theme=dark" alt="dang" />
