@@ -42,7 +42,7 @@ A **Programmer** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+<code><img height="20" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/></code>
 
 
 
