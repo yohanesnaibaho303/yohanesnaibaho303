@@ -42,7 +42,7 @@ A **Programmer** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-[<code><img height="20" src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg"></code>](https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667)
+<img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
 
 
 
