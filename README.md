@@ -48,4 +48,3 @@ A **Programmer** ***Enthusiast*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Yohanes's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanesnaibaho303&count_private=true&theme=dark" alt="dang" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanesnaibaho303&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="language-stats" />
