@@ -25,7 +25,7 @@ A **Programmer** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Final Year Computer Science student at the President University.
+- 👨🏽‍💻Bsc.IT From the President University.
 - 🌱 My interest in Cyber Security, Web Development, QA, Cloud.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yohanesnaibaho303@gmail.com](mailto:yohanesnaibaho303@gmail.com).
