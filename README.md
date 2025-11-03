@@ -4,18 +4,6 @@
 <a href="https://www.linkedin.com/in/yohanespratamanaibaho/">
   <img align="left" alt="Yohanes's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ypdangg/">
-  <img align="left" alt="Yohanes's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/Mr.YOhaN/">
-  <img align="left" alt="Yohanes's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/shehatesdang">
-  <img align="left" alt="Yohanes's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-
-
 
 <br />
 <br />
