@@ -34,5 +34,5 @@ A **Programmer** ***Enthusiast*** 🚀.
 
 
 
-![Yohanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303&show_icons=true&theme=radical)
+[![Yohanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanesnaibaho303)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohanesnaibaho303&count_private=true&theme=dark" alt="dang" />
